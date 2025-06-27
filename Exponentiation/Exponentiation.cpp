@@ -30,3 +30,4 @@ signed main()
         cin >> a >> b;
         cout << binpow(a, b, mod) << endl;
     }
+}
