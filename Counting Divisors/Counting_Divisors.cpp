@@ -24,3 +24,4 @@ signed main()
 		cin >> n;
 		cout << divs[n] << endl;
 	}
+}
